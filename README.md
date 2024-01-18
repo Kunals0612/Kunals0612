@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **UI/UX**
 
 - 📫 How to reach me **kunalshinde0612@gmail.com**
 
