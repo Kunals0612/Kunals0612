@@ -18,7 +18,7 @@ $ stack --reality
   learned using claude
 
 $ stack --list --sort=honesty
-  see above, but with more Stack Overflow tabs open
+  see above, but with more AI tabs open
 ```
 
 ```console
