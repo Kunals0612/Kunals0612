@@ -40,6 +40,7 @@ $ cat .hobbies
   going unreasonably deep on things
   holding political opinions no one asked for
   (both are exhaustively documented in my browser history)
+  build things that are not required
 
 $ ./exit --graceful
 bye 👋
