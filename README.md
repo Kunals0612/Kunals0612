@@ -14,6 +14,9 @@ $ stack --list --sort=depth
   frontend   Angular (Signals, NgRx) · React · Tailwind
   infra      Docker · Prometheus · Kibana
 
+$ stack --reality
+  learned using claude
+
 $ stack --list --sort=honesty
   see above, but with more Stack Overflow tabs open
 ```
