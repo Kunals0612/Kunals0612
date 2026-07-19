@@ -23,7 +23,7 @@ $ systemctl status kunal
 
 ● kunal.service — human, final year, mildly caffeinated
    Loaded: loaded (/home/kunal/.plans; enabled)
-   Active: active (building) since 2003; uptime: enough
+   Active: active (building) since 2004; uptime: enough
 
    building   things with Claude, mostly on purpose
    learning   distributed systems · .NET internals · modern Angular
