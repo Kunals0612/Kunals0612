@@ -5,6 +5,7 @@ $ cat /etc/motd
 Final-year Computer Engineering @ PICT, Pune.
 Writes — fine, generates — code that stays calm under load,
 and frontends that stay out of the way.
+Goons on legacy tech stack
 ```
 
 ```console
